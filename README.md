@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Jameel
+# Hi there 👋 It's me Jameel
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Passionate Computer Science student @ VIT UNIVERSITY                                           
 - 🌱 I’m currently learning DSA and Currently learning JAVA Spring Boot
