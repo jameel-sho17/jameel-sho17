@@ -3,7 +3,7 @@
 Passionate Computer Science student @ VIT UNIVERSITY                                           
 - 🌱 I’m currently learning DSA and Currently learning JAVA Spring Boot
 - Social Presence 
-<br /> <br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jameel-showkath-a17418292/) <br/> <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/abysscraver/?next=%2F&hl=en)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jameel-showkath-a17418292/) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/abysscraver/?next=%2F&hl=en)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -20,5 +20,5 @@ Passionate Computer Science student @ VIT UNIVERSITY
 ![Jameel LeetCode Stats](https://leetcard.jacoblin.cool/jameelshowkath?theme=dark&font=Marcellus&ext=heatmap)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Git Hub stats
+### Git Hub contribution
 [![Jameel github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jameel-sho17&bg_color=000000&color=c5ddda&line=2bca45&point=49d12e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
