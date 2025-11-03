@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Jameel
 
 Passionate Computer Science student @ VIT UNIVERSITY                                           
-- 🌱 I’m currently learning DSA and Currently learning JAVA Spring Boot
+- 🌱 I’m currently learning DSA in JAVA and JAVA Spring Boot
 - Social Presence 
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jameel-showkath-a17418292/) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/abysscraver/?next=%2F&hl=en)
 
